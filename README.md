@@ -16,8 +16,7 @@ Website statis responsif tentang Prince George, Princess Charlotte, dan Prince L
 6. Simpan, lalu tunggu GitHub Pages membuat URL situs.
 
 ## Catatan gambar
-Semua foto yang tampil di website berasal dari gambar yang diunggah oleh pemilik website dan disimpan langsung di folder `images/`. Dengan begitu, website tidak bergantung pada hotlink atau URL gambar eksternal.
-
+Semua foto yang digunakan website ini dibundel secara lokal di folder `images/`, sehingga GitHub Pages tidak bergantung pada hotlink gambar eksternal.
 
 ## Sumber informasi
 Informasi biografis dasar merujuk pada situs resmi The Royal Family:
